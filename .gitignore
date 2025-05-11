@@ -2,7 +2,6 @@ __pycache__
 autom4te.cache
 ccls-cache/
 nbfc_service.service
-.vscode/
 result
 doc/ec_probe.1
 doc/nbfc.1
@@ -26,3 +25,6 @@ install-sh
 configure
 Makefile
 nbfc-gui/nbfc-qt.py
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
